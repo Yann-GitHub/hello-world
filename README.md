@@ -3,4 +3,4 @@
 Hello,
 
 This is a tutorial about Github.
-Thanks for your attention
+Thanks for your attention.
